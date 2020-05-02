@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4874658362",
+    "firebase_url": "https://mypersonalshop-1fc24.firebaseio.com",
+    "project_id": "mypersonalshop-1fc24",
+    "storage_bucket": "mypersonalshop-1fc24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4874658362:android:20237830549a2300f88b03",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4874658362-q9jvv5uf6a9flro6l8v5sg7tm1ljatu1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6PjL5n6MT9GjKQvh5eUqx-NkEgABFwV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4874658362-q9jvv5uf6a9flro6l8v5sg7tm1ljatu1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
